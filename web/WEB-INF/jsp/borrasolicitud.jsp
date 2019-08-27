@@ -49,7 +49,7 @@
                         
                            
                         <p>
-                        <label >Usuario</label>
+                        <label>Usuario</label>
                         <input  value="${validador.usuario}" name="usuario" class="form-control editable-false" type="text" readonly/>
                         </p>
                           <p>
